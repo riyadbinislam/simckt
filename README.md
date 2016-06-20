@@ -1,1 +1,1 @@
-# simckt
+Circuit Simulator project
